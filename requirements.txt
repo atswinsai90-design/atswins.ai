@@ -1,1 +1,19 @@
-streamlit
+## ATSWins – AI-Driven Sports Prediction Platform
+
+**ATSWins** is a cutting-edge **sports analytics and betting insights platform** that empowers bettors and fans to make smarter decisions using advanced AI-driven models and real-time data.  
+Our proprietary algorithms analyze thousands of data points to deliver accurate, transparent predictions across major sports leagues.
+
+### Services & Features
+- AI Predictions for Spreads, Moneylines & Totals  
+- Player Prop Projections & Advanced Metrics  
+- Real-Time Betting Splits & Line Movement Tracking  
+- Multi-Sport Coverage (NFL, NBA, MLB, NHL, NCAAF, NCAAB)  
+- Expert Analysis & Model Comparisons  
+- Free Trial & Premium Subscription Plans  
+
+🌐 **Website:** [https://atswins.ai](https://atswins.ai)  
+📧 **Email:** support@atswins.ai  
+📍 **Location:** United States  
+
+> Whether you're a casual sports fan or a serious bettor, **ATSWins.ai** provides the data, tools, and insights you need to gain a winning edge.  
+Join today and experience the future of AI-powered sports prediction.
